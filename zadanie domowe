@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8"/>
+	<title>Strona główna</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<style>
+	body{
+		font-family: LATO;
+	}
+	h1{
+		font-size: 50px;
+		border: 1px solid black;
+		text-align: center;
+	}
+
+	h2{
+		font-size: 35px;
+		text-align: center;
+	}
+
+	</style>
+
+</head>
+
+<body>
+	<h1> Wybierz podstronę: </h1>
+		<h2> <a href="sites\pory_roku.html" target="blank"> Pory roku </a> </h2>
+		<h2> <a href="sites\panstwa_tabela.html" target="blank"> Państwa - tabela </a> </h2>
+		<h2> <a href="sites\panstwa_lista.html" target="blank">Państwa - lista </a> </h2>
+		<h2> <a href="sites\ciag_arytmetyczny.html" target="blank">Ciąg arytmetyczny</a> </h2>
+</body>
